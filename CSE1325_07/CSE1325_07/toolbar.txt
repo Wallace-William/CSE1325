@@ -1,0 +1,7 @@
+Toolbar design: (Menubar items that are present in the toolbar)
+ File
+ Products
+ Order
+ Servers
+ Customers
+ Info
